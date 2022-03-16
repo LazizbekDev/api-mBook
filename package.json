@@ -25,9 +25,7 @@
     "node-json-db": "^1.5.0",
     "nodemon": "^2.0.15",
     "speakeasy": "^2.0.0",
-    "uuid": "^8.3.2"
-  },
-  "devDependencies": {
+    "uuid": "^8.3.2",
     "colors": "^1.4.0",
     "config": "^3.3.7"
   }
